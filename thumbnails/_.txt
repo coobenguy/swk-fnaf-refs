@@ -1,0 +1,3 @@
+In the future, including thumbnails in the ref repo may be necessary and Id just like to see if I can do it
+
+Currently thumbnails are included directly in the built godot application and that will increase the website download size over time
